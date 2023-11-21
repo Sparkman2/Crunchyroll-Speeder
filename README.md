@@ -20,11 +20,16 @@ Want to watch your anime faster? Here's a playback speed chrome extension for Cr
 ![Image 11-21-23 at 12 03 PM](https://github.com/Sparkman2/Crunchyroll-Speeder/assets/96559493/c4e8fc32-fd22-4f00-9de7-1a944afc9a8d)
 
 
+&nbsp;
+
+
 3. Follow these next steps to get it ready
 
    
 https://github.com/Sparkman2/Crunchyroll-Speeder/assets/96559493/caa95cdd-bf4d-490b-bef2-ce4c750aa9ff
 
+
+&nbsp;
 
 4. Open up Crunchyroll and open up your extension!
 
