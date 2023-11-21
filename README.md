@@ -1,2 +1,7 @@
 # Crunchyroll-Speeder
-Want to watch your anime faster? Here's a playback speed chrome extension for crunchyroll!
+Want to watch your anime faster? Here's a playback speed chrome extension for Crunchyroll!
+
+<img width="350" alt="Screenshot 2023-11-21 at 11 41 07 AM" src="https://github.com/Sparkman2/Crunchyroll-Speeder/assets/96559493/683e49c1-c81d-4059-a1c4-7e38c7c23e82">
+
+
+![Image 11-21-23 at 11 45 AM](https://github.com/Sparkman2/Crunchyroll-Speeder/assets/96559493/de0b65ba-457f-4e6c-9b75-24e93b0e54a3)
