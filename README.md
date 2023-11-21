@@ -8,4 +8,4 @@ Want to watch your anime faster? Here's a playback speed chrome extension for Cr
 
 # Installing
 
-1.
+1. Clone this repo
